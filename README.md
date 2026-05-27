@@ -6,5 +6,4 @@
 4. Jalankan:
    php spark serve
 
-Login:
-admin / admin123
+
